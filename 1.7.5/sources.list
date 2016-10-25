@@ -1,5 +1,5 @@
-deb http://snapshot.debian.org/archive/debian/20150630T213432Z/ stretch main
-deb-src http://snapshot.debian.org/archive/debian/20150630T213432Z/ stretch main
+deb http://snapshot.debian.org/archive/debian/20161025T102933Z/ jessie main
+deb-src http://snapshot.debian.org/archive/debian/20161025T102933Z/ jessie main
 
-deb http://snapshot.debian.org/archive/debian-security/20150630T213432Z/ stretch/updates main
-deb-src http://snapshot.debian.org/archive/debian-security/20150630T213432Z/ stretch/updates main
+deb http://snapshot.debian.org/archive/debian-security/20161025T103148Z/ jessie/updates main
+deb-src http://snapshot.debian.org/archive/debian-security/20161025T103148Z/ jessie/updates main

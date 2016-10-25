@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:jessie
 
 MAINTAINER Ann Arbor District Library <github@aadl.org>
 
@@ -7,8 +7,6 @@ COPY sources.list /etc/apt/
 
 RUN apt-get -o Acquire::Check-Valid-Until=false update && apt-get -y install \
   cups=1.7.5* \
-  cups-filters \
-  cups-pdf \
   whois \
   && rm -rf /var/lib/apt/lists/*
 
