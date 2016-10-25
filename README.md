@@ -1,7 +1,8 @@
 # Supported tags and respective `Dockerfile` links
 
--	[`2.3.1`, `latest` (*2.3.1/Dockerfile*)](https://github.com/aadl/docker-cups/blob/master/2.1.3/Dockerfile)
--       [`1.7.5` (*1.7.5/Dockerfile*)](https://github.com/aadl/docker-cups/blob/master/1.7.5/Dockerfile)
+- [`2.2.1`, `latest` (*2.2.1/Dockerfile*)](https://github.com/aadl/docker-cups/blob/master/2.2.1/Dockerfile)
+- [`2.1.3` (*2.1.3/Dockerfile*)](https://github.com/aadl/docker-cups/blob/master/2.1.3/Dockerfile)
+- [`1.7.5` (*1.7.5/Dockerfile*)](https://github.com/aadl/docker-cups/blob/master/1.7.5/Dockerfile)
 
 # What is CUPS?
 

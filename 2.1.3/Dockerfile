@@ -7,6 +7,7 @@ COPY sources.list /etc/apt/
 
 RUN apt-get -o Acquire::Check-Valid-Until=false update && apt-get -y install \
   cups=2.1.3* \
+  cups-filters \
   cups-pdf \
   whois \
   && rm -rf /var/lib/apt/lists/*
